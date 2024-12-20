@@ -32,7 +32,6 @@ This webapp was developed using Flask Web Framework and was deployed on Vercel s
 
 ## NOTE
 
-==> You can access the website live at: <br>
 ==> Python version 3.7 was used for the whole project.<br>
 
 ## Steps to run this application in your system
